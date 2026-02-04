@@ -29,7 +29,7 @@ const CONFIG = {
         },
         second: {
             text: "¿Cuanto me amas?",                          // For the love meter
-            startText: "¿tanto? jijiji!",                                   // Text before the percentage
+            startText: "a ver 👀",                                   // Text before the percentage
             nextBtn: "Siguiente ❤️"                                         // Text for the next button
         },
         third: {
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://open.spotify.com/intl-es/track/1ZLw3xyQoj0Nk0P6EHDQx6?si=74de6f63f2214a64", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
